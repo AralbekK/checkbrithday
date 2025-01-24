@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">checkbrithday</string>
+    <string name="photo_desc">Фото пользователя</string>
+    <string name="first_name_hint">Введите имя</string>
+    <string name="last_name_hint">Введите фамилию</string>
+    <string name="birth_date_hint">Введите дату рождения</string>
+    <string name="phone_hint">Введите телефон</string>
+    <string name="save_button_text">Сохранить</string>
+</resources>
